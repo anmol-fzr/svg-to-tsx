@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +18,16 @@
   },
   "devDependencies": {
     "@svgr/core": "^8.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmol-fzr/svg-to-tsx.git"
+  },
+  "keywords": [ "svg" ],
+  "author": "anmol-fzr",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/anmol-fzr/svg-to-tsx/issues"
+  },
+  "homepage": "https://github.com/anmol-fzr/svg-to-tsx#readme"
 }
