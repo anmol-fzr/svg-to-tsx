@@ -1,0 +1,21 @@
+{
+  "name": "svgIconMaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@svgr/plugin-jsx": "^8.1.0",
+    "@types/node": "^20.11.28",
+    "change-case-all": "^2.1.0",
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "@svgr/core": "^8.1.0"
+  }
+}
